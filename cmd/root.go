@@ -1,5 +1,5 @@
 /*
-Copyright © 2026 NAME HERE <EMAIL ADDRESS>
+Copyright © 2026 Abdullah K Vohra <abdullah.k.vohra@gmail.com>
 */
 package cmd
 
